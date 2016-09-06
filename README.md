@@ -1,1 +1,1 @@
-# weatherGenerator
+# VitaGenerator
